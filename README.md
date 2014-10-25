@@ -1,0 +1,4 @@
+# cgoroutines
+
+    $ make
+    $ cgo
