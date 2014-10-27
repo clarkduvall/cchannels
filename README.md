@@ -1,4 +1,4 @@
-# cgoroutines
+# cchannels
 
     $ make
-    $ cgo
+    $ chan
